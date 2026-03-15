@@ -5,7 +5,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-18BCF2?style=flat-square&logo=homeassistant&logoColor=white)
@@ -14,6 +14,7 @@
 > I like building at the intersection of software and hardware. That is a big part of why I enjoy running Sizable: it lets me combine ecommerce, systems thinking, electronics, and practical problem-solving in one place.
 
 🛒 **[sizable.se](https://sizable.se/)** (closed source) - I built the custom ecommerce platform behind my own electronics store, serving customers across Sweden. It runs on Cloudflare's edge stack and powers daily operations, catalog management, and order flows in production. For me, it is the perfect mix of software, hardware, business, and hands-on building.
+
 🌐 **[joakimjohansson.se](https://joakimjohansson.se/)** - my corner of the internet.
 
 ## What I'm Doing
