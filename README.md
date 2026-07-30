@@ -13,7 +13,7 @@
 
 > I like building at the intersection of software and hardware. That is a big part of why I enjoy running Sizable: it lets me combine ecommerce, systems thinking, electronics, and practical problem-solving in one place.
 
-🛒 **[sizable.se](https://sizable.se/)** (closed source) - I built the custom ecommerce platform behind my own electronics store, serving customers across Sweden. It runs on Cloudflare's edge stack and powers daily operations, catalog management, and order flows in production. For me, it is the perfect mix of software, hardware, business, and hands-on building.
+🛒 **[sizable.se](https://sizable.se/)** - I built the custom ecommerce platform behind my own electronics store, serving customers across Sweden. It runs on Cloudflare's edge stack and powers daily operations, catalog management, and order flows in production. For me, it is the perfect mix of software, hardware, business, and hands-on building.
 
 🌐 **[joakimjohansson.se](https://joakimjohansson.se/)** - my corner of the internet.
 
